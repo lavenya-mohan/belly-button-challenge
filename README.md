@@ -52,7 +52,7 @@ The project leverages **HTML**, **D3.js**, **Plotly.js**, and **Bootstrap** for 
   - **Bar Chart**: Displays the top 10 OTUs for the selected ID.
   - **Bubble Chart**: Visualizes all OTUs for the selected ID.
 
-## JavaScript Functionality
+## App JavaScript Functionality
 
 ### `buildMetadata(sample)`
 - Fetches metadata for the selected sample ID and dynamically updates the **Demographic Info Panel**.
@@ -63,10 +63,7 @@ The project leverages **HTML**, **D3.js**, **Plotly.js**, and **Bootstrap** for 
   - **Bubble Chart**: Displays all OTUs with bubble size and color based on data values.
 
 ### `init()`
-- Initializes the dashboard by:
+- Initializes the interactive dashboard by:
   - Populating the dropdown menu with sample IDs.
   - Generating charts and metadata for the first sample.
-```markdown
-
-
 
