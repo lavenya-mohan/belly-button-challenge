@@ -1,8 +1,8 @@
 # Belly Button Biodiversity Dashboard
 
-## Deployment(Deploy your app to a free static page hosting service, such as GitHub Pages):
+## Deployment
 
-You can view the live version of the project here: [Belly Button Biodiversity Dashboard](https://lavenya-mohan.github.io/belly-button-challenge/)
+You can view the live version of the project / deployed GitHub Page here: [Belly Button Biodiversity Dashboard](https://lavenya-mohan.github.io/belly-button-challenge/)
 
 
 ## Overview
