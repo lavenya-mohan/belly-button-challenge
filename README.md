@@ -1,5 +1,10 @@
 # Belly Button Biodiversity Dashboard
 
+## Deployment
+
+You can view the live version of the project here: [Belly Button Challenge](https://lavenya-mohan.github.io/belly-button-challenge/)
+
+
 ## Overview
 
 This project is an interactive dashboard designed to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels. The dataset helps visualize the diversity of microbial species (OTUs) present in individuals' belly buttons. 
